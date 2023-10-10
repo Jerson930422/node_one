@@ -1,0 +1,4 @@
+git add -A
+git commit -a -m 'primer commit node'
+git push
+git pull 
